@@ -7,5 +7,8 @@ Babel, Browserify, Flux.Dispatcher, Bootstrap
 Install deps
 `npm install`
 
+Development
+`npm start`
+
 Build
-`gulp build`
+`webpack --config webpack-build.config.js`
