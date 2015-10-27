@@ -1,6 +1,6 @@
 # React-Flux-Boilerplate
 
-Babel, Browserify, Flux.Dispatcher, Bootstrap
+Babel, Browserify, Flux.Dispatcher, Bootstrap, Webpack, Hot-reload
 
 ###How to use
 
